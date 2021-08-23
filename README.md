@@ -1,2 +1,2 @@
 # tf-bert
-Bert Classification with Tensorflow
+Bert Finetuning and Classification with Tensorflow
